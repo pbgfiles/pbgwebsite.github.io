@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-size: 100%;
+    font-family: sans-serif;
+}
+
+div, section, span, ul, li, a, header{
+    box-sizing: border-box;
+}
+
+/*css reset*/
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;
+    position: fixed;
+    z-index: 999;
+}
+
+#menu li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+#menu li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+section{
+    width: 100%;
+    float: left;
+    height: 100vh;
+    position: relative;
+}
+
+#home{
+   background-color: #9400D3;
+}
+
+#privacypolicy{
+     background-color: #9932CC;
+}
+
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.linemenuu
+{
+position : relative;
+top : 100px;
+left : 0px;
+}
+
+.grbtitimg
+{
+position : relative;
+top : 200px;
+left : 55px;
+}
+.grbimg
+{
+width : 100px;
+height : 100px;
+position : relative;
+top : 200px;
+left : 50px;
+}
+
+.linepp
+{
+position : relative;
+top : 100px;
+left : 0px;
+}
+
+.polcytit
+{
+position : relative;
+top : 120px;
+left : 750px;
+}
+
+.introtit
+{
+position : relative;
+top : 130px;
+left : 10px;
+}
+.intromater
+{
+position : relative;
+top : 130px;
+left : 10px;
+}
+
+.infousagetit
+{
+position : relative;
+top : 150px;
+left : 10px;
+}
+.infousagemater
+{
+position : relative;
+top : 150px;
+left : 10px;
+}
+
+.adsvertisetit
+{
+position : relative;
+top : 160px;
+left : 10px;
+}
+.adsvertisemater
+{
+position : relative;
+top : 160px;
+left : 10px;
+}
+
+.permisionstit
+{
+position : relative;
+top : 170px;
+left : 10px;
+}
+.permisionsmater
+{
+position : relative;
+top : 170px;
+left : 10px;
+}
+
+.socialtit
+{
+position : relative;
+top : 180px;
+left : 10px;
+}
+.socialmater
+{
+position : relative;
+top : 180px;
+left : 10px;
+}
+
+.decalratiointit
+{
+position : relative;
+top : 190px;
+left : 10px;
+}
+.decalratioinmater
+{
+position : relative;
+top : 190px;
+left : 10px;
+}
+
+.contcttit
+{
+position : relative;
+top: 200px;
+left : 10px;
+}
+.contctmater
+{
+position : relative;
+top: 200px;
+left : 10px;
+}
+
+
+
+
+
+
+
